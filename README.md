@@ -1,3 +1,3 @@
 # Project-store-game
 
-Experimental Project based on css grid
+Experimental Project based on CSS GRID 
